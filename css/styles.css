@@ -5,3 +5,10 @@
     padding-bottom: 50px;
     padding-left: 10px;
   }
+  .input{
+    background-color:transparent
+    color: white;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
