@@ -1,4 +1,44 @@
-.content{
+/* .content{
     display:none;
+} */
+
+h4 {
+  text-align: center;
+  font-weight: bold;
 }
 
+#overlay, #overlay1, #overlay2, #overlay3, #overlay4, #overlay5, #overlay6, #overlay7 {
+  color: black;
+  position: relative;
+  text-align: center;
+  top: 50%;
+  font-family: Arial, Verdana;
+  color: #000;
+  font-size: 150%;
+  font-weight: 900;
+  text-shadow: 1px 1px #fff;
+  overflow: hidden;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid honeydew;
+  background-color: ivory;
+}
+
+#img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8 {
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+h3 {
+  text-align: center;
+  font-weight: bold;
+}
+
+form {
+  width: 700px;
+  max-width: 90%;
+  display: inline-block;
+}
