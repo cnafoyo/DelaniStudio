@@ -10,7 +10,7 @@ You should be able to hover through the content of our design,development and pr
 ## Technologies Used
 HTML, CSS, javaScript and jQuery.
 ## Support and contact details
-contact; 0721729021
+contact; 0721729021;cnafoyo@gmail.com
 ### License
 MIT Licenct
 Copyright (c) 2020 Nafoyo Billy 
