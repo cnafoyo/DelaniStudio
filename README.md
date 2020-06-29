@@ -1,6 +1,6 @@
 # Delani Studio
 #### Recreating a landing page for a fictional studio, 2020
-#### By Nafoyo Chepkemoi
+#### By cnafoyo
 ## Description
 This is a landing page for a fictional studio.
 has a welcome page,  some details about us, the serivices we offer, what we do portfolio and how to reach us.
